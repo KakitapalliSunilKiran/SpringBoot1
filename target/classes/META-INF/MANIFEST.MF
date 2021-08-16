@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Student1
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Sunil Kiran
+Implementation-Vendor-Id: com.info
+Build-Jdk: 1.8.0_101
+Implementation-URL: https://spring.io/projects/spring-boot/Student1
+Created-By: Maven Integration for Eclipse
+
